@@ -1,0 +1,12 @@
+{
+    "name": "ThingSPIN-Flow-Sample",
+    "description": "ThingSPIN-Flow-Sample Source",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "thingspin-gui-flow.json",
+            "credentialsFile": "thingspin-gui-flow_cred.json"
+        }
+    }
+}
